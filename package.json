@@ -1,0 +1,22 @@
+{
+    "name": "develop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest --verbose test/*",
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        
+      "inquirer": "^8.2.0",
+      "jest": "^27.3.1"
+    }
+  }
+  
